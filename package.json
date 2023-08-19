@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositório do Curso de Nodejs da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Robson Roberto",
+  "license": "MIT"
+}
